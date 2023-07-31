@@ -9,7 +9,6 @@
  * @author Testing */
 public class Student {
     String name;
-    // test
     int RE;
     int SDA;
     int SQAT;
@@ -34,9 +33,13 @@ public class Student {
     }
    
     void testAll()
- {
-     System.out.println("Hello");
-     return;
-}
+    {
+        System.out.println("Hello");
+        return;
+    }
+
+    int countAll() {
+        return 0;
+    }
 
 }
