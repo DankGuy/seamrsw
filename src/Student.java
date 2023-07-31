@@ -34,13 +34,9 @@ public class Student {
     }
    
     void testAll()
-    {
-        System.out.println("Hello");
-        return;
-    }
-
-    void myTest() {
-        System.out.println("Hello");
-    }
+ {
+     System.out.println("Hello");
+     return;
+}
 
 }
